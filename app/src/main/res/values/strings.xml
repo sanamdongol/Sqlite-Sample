@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_address">Where do you live?</string>
+</resources>
